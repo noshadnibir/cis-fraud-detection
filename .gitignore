@@ -1,0 +1,16 @@
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# Data & Models (Prevents GitHub 100MB Limit Rejection)
+data/
+*.csv
+*.json
+*.pkl
+*.h5
+*.joblib
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
